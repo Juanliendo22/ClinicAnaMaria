@@ -217,7 +217,7 @@ a {
 }
 
 .mil-light {
-  color: rgb(242, 250, 250);
+  color: " $color-1-4";
 }
 
 .mil-soft {
