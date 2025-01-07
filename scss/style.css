@@ -2733,3 +2733,13 @@ footer.mil-footer-dark-2 .mil-footer-bottom {
 .mil-subscripe-form-footer button i.mil-dark {
   color: #56493d;
 }/*# sourceMappingURL=style.css.map */
+
+.icon-gradient {
+  font-size: 60px; /* Tamaño más grande de los iconos */
+  background: linear-gradient(to right, rgba(95, 86, 76, 1), 50%, rgba(39, 38, 37, 1)); /* Gradiente de color */
+  -webkit-background-clip: text; /* Aplica el gradiente solo al texto (icono) */
+  color: transparent; /* El color de los iconos se hace transparente para ver el gradiente */
+  padding: 20px; /* Espaciado alrededor del icono */
+  display: inline-block; /* Asegura que el icono sea un bloque en línea */
+  text-align: center; /* Centra el icono dentro del espacio */
+}
