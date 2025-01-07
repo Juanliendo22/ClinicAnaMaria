@@ -54,7 +54,7 @@ typography
 
 * {
     font-family: $font-2;
-    color: $color-2-1;
+    color:#272625;
 }
 
 h1,
@@ -327,7 +327,7 @@ br {
 
 @supports (--css: variables) {
     .mil-text-gradient-3 {
-        background: linear-gradient(to right, rgba(13, 81, 82, 1), 50%, rgba(13, 81, 82, 0.8));
+        background: linear-gradient(to right, rgba(95, 86, 76, 1), 50%, rgba(39, 38, 37, 1));
         color: transparent;
         background-clip: text;
     }
